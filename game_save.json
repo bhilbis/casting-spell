@@ -1,0 +1,35 @@
+{
+  "name": "Aldhann",
+  "role": "Mage",
+  "level": 9,
+  "exp": 17,
+  "gold": 1027,
+  "hp": 150,
+  "max_hp": 150,
+  "mp": 140,
+  "max_mp": 140,
+  "attack": 22,
+  "defense": 12,
+  "speed": 8,
+  "skills": [
+    {
+      "id": "s_m_01",
+      "name": "Fireball",
+      "type": "attack",
+      "power": 12,
+      "cost": 40,
+      "mp_cost": 8
+    },
+    {
+      "id": "s_m_02",
+      "name": "Minor Heal",
+      "type": "heal",
+      "power": 15,
+      "cost": 35,
+      "mp_cost": 6
+    }
+  ],
+  "inventory": {
+    "p_hp_small": 10
+  }
+}

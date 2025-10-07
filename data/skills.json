@@ -1,0 +1,8 @@
+[
+  {"id":"s_w_01","name":"Slash","type":"attack","power":8,"cost":30,"mp_cost":0,"class":"Warrior"},
+  {"id":"s_w_02","name":"Shield Bash","type":"defense","power":3,"cost":45,"mp_cost":0,"class":"Warrior"},
+  {"id":"s_m_01","name":"Fireball","type":"attack","power":12,"cost":40,"mp_cost":8,"class":"Mage"},
+  {"id":"s_m_02","name":"Minor Heal","type":"heal","power":15,"cost":35,"mp_cost":6,"class":"Mage"},
+  {"id":"s_a_01","name":"Piercing Shot","type":"attack","power":10,"cost":35,"mp_cost":2,"class":"Archer"},
+  {"id":"s_a_02","name":"Quick Dodge","type":"defense","power":2,"cost":20,"mp_cost":0,"class":"Archer"}
+]
